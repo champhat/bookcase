@@ -1,0 +1,14 @@
+fr\bookcase\entity\User.class
+fr\bookcase\beans\GestionCategorieLocal.class
+fr\bookcase\beans\GestionUserLocal.class
+fr\bookcase\entity\Livre.class
+fr\bookcase\entity\Categorie.class
+fr\bookcase\beans\GestionCategorie.class
+fr\bookcase\beans\GestionLivre.class
+fr\bookcase\beans\GestionUser.class
+fr\bookcase\entity\PretEmprunt_.class
+fr\bookcase\entity\PretEmprunt.class
+fr\bookcase\entity\User_.class
+fr\bookcase\entity\Categorie_.class
+fr\bookcase\entity\Livre_.class
+fr\bookcase\beans\GestionLivreLocal.class

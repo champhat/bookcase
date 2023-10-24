@@ -1,0 +1,6 @@
+fr\bookcase\controleurs\RedirectGestionLivre.class
+fr\bookcase\controleurs\RedirectAccueil.class
+fr\bookcase\controleurs\RedirectLogin.class
+fr\bookcase\controleurs\RedirectInscription.class
+fr\bookcase\controleurs\SousControleurIt.class
+fr\bookcase\controleurs\FrontControler.class
